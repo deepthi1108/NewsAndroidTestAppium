@@ -1,0 +1,5 @@
+utility/LoginScreen.class
+setUp/appiumSetUp.class
+setUp/runner.class
+utility/NewsScreen.class
+Actions/actions.class

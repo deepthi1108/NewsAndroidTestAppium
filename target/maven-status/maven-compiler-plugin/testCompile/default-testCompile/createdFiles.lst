@@ -1,0 +1,5 @@
+stepDefinitions/loginSteps.class
+pages/newsPage.class
+stepDefinitions/newsSteps.class
+pages/BasePage.class
+pages/loginPage.class
