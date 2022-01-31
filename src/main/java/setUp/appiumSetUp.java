@@ -25,7 +25,7 @@ public class appiumSetUp {
         capabilities.setCapability("automationName", "UiAutomator2");
         capabilities.setCapability("platformVersion", "11");
         //	capabilities.setCapability("deviceName", "Android Emulator"); // if using emulator
-        capabilities.setCapability("udid", "8c388a0d");  //give your device id (real device connected to the system)
+        capabilities.setCapability("udid", "");  //give your device id (real device connected to the system)
         capabilities.setCapability("platformName", "Android");
         String androidAppPath = System.getProperty("user.dir") + "/src/main/java/App/app-debug.apk";
         capabilities.setCapability("app", androidAppPath);
